@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SBActivity</string>
+    <string name="search">Search</string>
+    <string name="sports">No sports selected!</string>
+    <string-array name="sports_name">
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Hockey</item>
+        <item>Rugby</item>
+        <item>BasketBall</item>
+    </string-array>
+    <string name="app_disc">Select sports name to find out last 5 World Cup Champion</string>
+</resources>
